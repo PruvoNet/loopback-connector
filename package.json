@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-pruvo",
-  "version": "4.8.1",
+  "version": "4.8.2",
   "description": "Building blocks for LoopBack connectors",
   "engines": {
     "node": ">=6"
